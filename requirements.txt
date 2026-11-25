@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+openpyxl
+scikit-learn
+statsmodels
+xgboost
+torch
+joblib
+plotly
+streamlit
+holidays
